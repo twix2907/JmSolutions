@@ -40,7 +40,7 @@ export default function Sidebar({ items, userRole, user }: SidebarProps) {
       <div className="p-4 border-b border-primary-light flex items-center justify-between">
         {!isCollapsed && (
           <div className="flex items-center gap-2">
-            <img src="/placeholder-logo.png" alt="JM Solutions Logo" className="w-8 h-8 object-contain rounded" />
+            <img src="/placeholder-logo.jpg" alt="JM Solutions Logo" className="w-8 h-8 object-contain rounded" />
             <span className="font-bold">JM Solutions</span>
           </div>
         )}

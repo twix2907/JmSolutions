@@ -31,7 +31,7 @@ export default function LoginForm({ onSubmit, isLoading, error }: LoginFormProps
         {/* Logo Section */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-16 h-16 mb-4">
-            <img src="/placeholder-logo.png" alt="JM Solutions Logo" className="w-16 h-16 object-contain rounded" />
+            <img src="/placeholder-logo.jpg" alt="JM Solutions Logo" className="w-16 h-16 object-contain rounded" />
           </div>
           <h1 className="text-2xl font-bold text-foreground">JM Solutions</h1>
           <p className="text-gray-dark text-sm mt-1">Sistema de Gestión de Tickets</p>
